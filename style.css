@@ -1,0 +1,55 @@
+.navbar-custom {
+    background-color: #A5E6BA; /* Change this color to your desired color */
+  }
+
+  .navbar-custom .navbar-brand {
+    color: #34623F; /* Change navbar brand text color */
+  }
+
+  .navbar-custom .nav-link {
+    color:#34623f; /* Change navbar links text color */
+  }
+  
+
+  .navbar-nav {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .navbar-nav .nav-item {
+    text-align: center;
+    margin: 15px;
+  }
+
+ .container{
+  padding :20px 80px;
+ }
+
+  .text {
+    margin-left: 250px; /* Adjust margin as needed */
+    margin-top: 300px;
+  }
+
+  .image-container {
+    display: flex;
+  }
+
+  .image-container img {
+    height: 690px; /* Set the height of the images */
+    width: auto; /* Allow the width to adjust proportionally */
+    margin-right: 10px; /* Add margin between the images */
+  }
+  .offer{
+    height:800px;
+
+  }
+
+  
+  
+  .featured-products {
+    display: flex;
+    flex-direction: row; /* Set the direction to row */
+    */
+  }
+
+  
